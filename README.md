@@ -21,6 +21,7 @@ Investigate on the various categories of tools as follows:
 Open terminal and try execute some kali linux commands
 
 ## EXECUTION STEPS AND ITS OUTPUT:
+
 Find out the ip address of the attackers system
 
 ## OUTPUT:
@@ -38,6 +39,7 @@ Type help or a question mark "?" to see the list of all available commands you c
 
 
 ## Port Scanning:
+
 Following command is executed for scanning the systems on our local area network with a TCP scan (-sT) looking for open ports between 1 and 1000 (-p1-1000). msf > nmap -sT 192.168.1810/24 -p1-1000
 
 ## OUTPUT:
