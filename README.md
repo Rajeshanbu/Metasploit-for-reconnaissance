@@ -26,16 +26,19 @@ Find out the ip address of the attackers system
 
 ## OUTPUT:
 
-![eth51](https://github.com/Rajeshanbu/Metasploit-for-reconnaissance/assets/118924713/05b96ef3-6e8c-4f08-9cc7-f0df68dc32ea)
+![Screenshot 2024-04-10 092927](https://github.com/Rajeshanbu/Metasploit-for-reconnaissance/assets/118924713/5e0335e1-7dcf-48aa-9fa2-676fccb7362d)
+
 
 Invoke msfconsole:
 
-![eth52](https://github.com/Rajeshanbu/Metasploit-for-reconnaissance/assets/118924713/5a9c59b7-c9cf-4f89-840d-32f504340f01)
+![Screenshot 2024-04-10 093820](https://github.com/Rajeshanbu/Metasploit-for-reconnaissance/assets/118924713/57be8a40-139a-409a-85b7-c648ae25efa6)
+
 
 
 Type help or a question mark "?" to see the list of all available commands you can use inside msfconsole.
 
-![eth53](https://github.com/Rajeshanbu/Metasploit-for-reconnaissance/assets/118924713/5a094606-3e82-4f38-ace4-aa35c1630ecb)
+![Screenshot 2024-04-10 093056](https://github.com/Rajeshanbu/Metasploit-for-reconnaissance/assets/118924713/81611b16-7185-4b9e-8b87-557c361376b3)
+
 
 
 ## Port Scanning:
@@ -67,7 +70,7 @@ The info command provides information regarding a module or platform,
 
 ## OUTPUT
 
-![eth57](https://github.com/Rajeshanbu/Metasploit-for-reconnaissance/assets/118924713/5c932942-ad12-40bf-b80b-61f8533a7de9)
+![Screenshot 2024-04-10 094045](https://github.com/Rajeshanbu/Metasploit-for-reconnaissance/assets/118924713/7b8dba37-fa28-4ea9-a803-87f0c5ddcbc0)
 
 
 Before beginning, set up the Metasploit database by starting the PostgreSQL server and initialize msfconsole database as follows: systemctl start postgresql msfdb init
